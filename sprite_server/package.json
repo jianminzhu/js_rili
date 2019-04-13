@@ -1,0 +1,32 @@
+{
+  "name": "Park-ADV",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muleisheng/Park-ADV.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muleisheng/Park-ADV/issues"
+  },
+  "homepage": "https://github.com/muleisheng/Park-ADV#readme",
+  "devDependencies": {
+    "typescript": "^3.4.2"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "canvas": "^2.4.1",
+    "css": "^2.2.4",
+    "gifencoder": "^2.0.1",
+    "jquery": "^3.3.1",
+    "spritejs": "^2.27.11",
+    "test": "^0.6.0"
+  }
+}
